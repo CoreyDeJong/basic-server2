@@ -2234,7 +2234,9 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-clip: url("../../images/Pexels\ Videos\ 2573.mp4");
+				/* background-image: url("../../images/banner.jpg"); */
+				/* background-image: url("../../images/Dejong_Corey.jpg"); */
 			}
 
 			#main > section.two {
