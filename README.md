@@ -6,17 +6,18 @@ Estimate of time needed to complete: 30 min
 
 Start time: 10am
 
-Finish time: _____
+Finish time: 10:40am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40 min
+
+https://rcdprofile2.herokuapp.com/#top
 
 
+Number and name of feature: lab 5.2 - Functionality
 
-Number and name of feature: ________________________________
+Estimate of time needed to complete: 2 hours
 
-Estimate of time needed to complete: _____
-
-Start time: _____
+Start time: 10:45am
 
 Finish time: _____
 
